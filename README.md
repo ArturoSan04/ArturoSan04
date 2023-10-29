@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArturoSan04
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on projects that involve expanding my interests on Data Analysis
+- 💞️ I’m looking to collaborate on projects that involve expanding my interests in Data Analysis
 - 📫 How to reach me at sanart41@gmail.com
 
 <!---
