@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArturoSan04
+- 👋 Hi, I’m Arturo
 - 👀 I’m interested in Data Analysis
 - 💞️ I’m looking to collaborate on projects that involve expanding my interests in Data Analysis
 - 📫 How to reach me at sanart41@gmail.com
